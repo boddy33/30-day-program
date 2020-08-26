@@ -21,6 +21,11 @@ input {
   border-radius: 100px;
 }
 
+.animate__animated.animate__zoomInDown {
+  --animate-delay: 2s;
+  --animate-duration: 2s;
+}
+
 h1 {
   text-transform: capitalize;
   font-size: 2em;
