@@ -24,7 +24,7 @@ input {
 h1 {
   text-transform: capitalize;
   font-size: 2em;
-  color: #c44f2d;
+  color: #dc3545;
   font-weight: 700;
 }
 
@@ -33,18 +33,10 @@ h1 {
 }
 
 hr { 
-  border-color: orange;  
+  border-color: #dc3545;  
   border-width: 3px;
   min-width: 65px;
   max-width: 105px;
-}
-
-.btn-primary {
-  background-color: orange;
-}
-
-.btn-primary:hover {
-  background-color: green;
 }
 
 .myBtn {
@@ -52,9 +44,9 @@ hr {
   font-weight: 700;
   border-radius: 300px;
   text-transform: uppercase;
-  background-color: orange;
+  background-color: #dc3545;
   color: white;
-  border-color: orange;
+  border-color: #dc3545;
 }
 
 .modal-body {
